@@ -97,12 +97,6 @@
   width: 50%;
 }
 
-.unit-xs-1-2,
-.xs-1-2 {
-  display: inline-block;
-  visibility: visible;
-}
-
 .unit-xs-1-2[class*="-content-"],
 .xs-1-2[class*="-content-"] {
   display: -webkit-flex;
@@ -166,12 +160,6 @@
   .unit-s-3-4,
   .s-3-4 {
     width: 75%;
-  }
-
-  .unit-s-1-2,
-  .s-1-2 {
-    display: inline-block;
-    visibility: visible;
   }
 
   .unit-s-1-2[class*="-content-"],
@@ -240,12 +228,6 @@
 
   .unit-pull-m-1-2 {
     left: -50%;
-  }
-
-  .unit-m-1-2,
-  .m-1-2 {
-    display: inline-block;
-    visibility: visible;
   }
 
   .unit-m-1-2[class*="-content-"],
